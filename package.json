@@ -1,0 +1,27 @@
+{
+  "name": "unit-four-personal-project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlpanetta1681/unit-four-personal-project-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlpanetta1681/unit-four-personal-project-1/issues"
+  },
+  "homepage": "https://github.com/jlpanetta1681/unit-four-personal-project-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
